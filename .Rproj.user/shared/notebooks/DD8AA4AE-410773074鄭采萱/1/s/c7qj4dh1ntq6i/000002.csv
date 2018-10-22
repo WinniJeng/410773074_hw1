@@ -1,0 +1,9 @@
+"0","library(readr)"
+"0","bankdata <- read_csv(""https://raw.githubusercontent.com/tpemartin/github-data/master/bankdata.csv"")"
+"2","Parsed with column specification:
+cols(
+  `<U+9280><U+884C>` = col_character(),
+  `<U+5E74><U+6708>` = col_character(),
+  `<U+5229><U+7387>` = col_double()
+)
+"
